@@ -1,0 +1,2 @@
+# Emo-Go
+Game Template
